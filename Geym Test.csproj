@@ -19,7 +19,6 @@
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
-    <None Include=".github\workflows\snake.yml" />
   </ItemGroup>
 
   <ItemGroup>
