@@ -1,9 +1,6 @@
 ﻿using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 using YoutubeExplode;
 using YoutubeExplode.Common;
-using YoutubeExplode.Search;
 using YoutubeExplode.Videos;
 
 namespace SteamGameTopMusicOpener.Services {

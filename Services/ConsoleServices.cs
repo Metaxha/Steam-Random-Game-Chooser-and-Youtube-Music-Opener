@@ -1,6 +1,4 @@
-﻿using System;
-using System.Drawing;
-using System.Threading;
+﻿using System.Drawing;
 
 namespace SteamGameTopMusicOpener.Services {
     public class ConsoleService {

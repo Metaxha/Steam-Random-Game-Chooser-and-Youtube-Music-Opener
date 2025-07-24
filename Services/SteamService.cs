@@ -1,11 +1,7 @@
 ﻿using Gameloop.Vdf;
 using Gameloop.Vdf.Linq;
 using Microsoft.Win32;
-using SteamGameTopMusicOpener.Models;
-using System;
-using System.Collections.Generic;
 using System.Drawing;
-using System.IO;
 
 namespace SteamGameTopMusicOpener.Services {
     public class SteamService {

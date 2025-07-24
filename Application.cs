@@ -1,6 +1,5 @@
 ﻿using SteamGameTopMusicOpener.Services;
 using System.Drawing;
-using System.Threading.Tasks;
 
 namespace SteamGameTopMusicOpener {
     public class Application {

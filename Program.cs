@@ -1,8 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
-
-namespace SteamGameTopMusicOpener {
+﻿namespace SteamGameTopMusicOpener {
     class Program {
         static async Task Main(string[] args) {
             try {
